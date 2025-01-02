@@ -26,7 +26,7 @@ const greeting = {
     "A student pursuing a Bachelors in Computer Science from North Carolina State University expected to gradute in the Spring of 2025."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KGzO57EPEtvdzmEILbKA7Wk1dYmAT6HR/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -48,7 +48,7 @@ const skillsSection = {
   subTitle: "Current student looking for full time opportunities",
   skills: [
     emoji(
-      "I have been exposed to a wide range of technologies and tools from building out a progressive-web-application to designing and implementing an AI agent to complete levels of a game. I am looking to hone in on these skills with a full time position after I graduate."
+      "I have been exposed to a wide range of technologies and tools from building out a progressive-web-application to designing and implementing an AI agent to complete levels of a game. I am looking to hone in on these skills with a full time position upon graduation."
     ),
   ],
 
@@ -173,7 +173,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Youtube Demo",
-          url: ""
+          url: "https://youtu.be/lzhj4Bi_Ybs"
         }
         //  you can add extra buttons here.
       ]
@@ -181,11 +181,11 @@ const bigProjects = {
     {
       image: require("./assets/images/NutriTrack_512x512.png"),
       projectName: "NutriTrack",
-      projectDesc: "A final project for my Client and Server side Computing course that I completed with 2 other classmates. The application is designed to make tracking macronutrient and caloric intake easy and intuivite.",
+      projectDesc: "A final project for my Client and Server side Computing course that I completed with 2 other classmates. The application is designed to make tracking macronutrient and caloric intake easy and intuitive.",
       footerLink: [
         {
           name: "Youtube Demo",
-          url: ""
+          url: "https://youtu.be/tv8AAwWK4a0"
         }
       ]
     },
@@ -196,7 +196,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Youtube Demo",
-          url: ""
+          url: "https://youtu.be/MS3tX1eS6Pg"
         }
       ]
     }
@@ -333,7 +333,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Feel free to contact me!",
+    "",
   number: "704-441-1392",
   email_address: "yusefshakhtour@gmail.com"
 };
