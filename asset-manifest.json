@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.699532b1.css",
-    "main.js": "/developerFolio/static/js/main.fed0f3c3.js",
+    "main.js": "/developerFolio/static/js/main.c19dd36d.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/NutriTrack_512x512.png": "/developerFolio/static/media/NutriTrack_512x512.06988c8ba548e343caab.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Chip.png": "/developerFolio/static/media/Chip.390ad38c04eb5315a706.png",
+    "static/media/wolfconnect.png": "/developerFolio/static/media/wolfconnect.d5ec21dfe0a154c662f7.png",
     "static/media/ncsulogo.png": "/developerFolio/static/media/ncsulogo.6d9e68b7402ea2999fc0.png",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -25,7 +25,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.699532b1.css.map": "/developerFolio/static/css/main.699532b1.css.map",
-    "main.fed0f3c3.js.map": "/developerFolio/static/js/main.fed0f3c3.js.map",
+    "main.c19dd36d.js.map": "/developerFolio/static/js/main.c19dd36d.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.699532b1.css",
-    "static/js/main.fed0f3c3.js"
+    "static/js/main.c19dd36d.js"
   ]
 }
