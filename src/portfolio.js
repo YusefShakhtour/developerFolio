@@ -23,12 +23,13 @@ const greeting = {
   username: "Yusef Shakthour",
   title: "Hello, I'm Yusef",
   subTitle: emoji(
-    "A student pursuing a Bachelors in Computer Science from North Carolina State University expected to gradute in the Spring of 2025."
+    "A recent graduate from North Carolina State Unviersity with a Bachelors in Computer Science with a concentration in AI and minor in mathematics."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1KGzO57EPEtvdzmEILbKA7Wk1dYmAT6HR/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1fxI3yiCyJ2hUsd1FKlkOJb9jd8blkvzB/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
+
 
 // Social Media Links
 
@@ -48,7 +49,7 @@ const skillsSection = {
   subTitle: "Current student looking for full time opportunities",
   skills: [
     emoji(
-      "I have been exposed to a wide range of technologies and tools from building out a progressive-web-application to designing and implementing an AI agent to complete levels of a game. I am looking to hone in on these skills with a full time position upon graduation."
+      "I have been exposed to a wide range of technologies and tools from building out a progressive-web-applications to designing and implementing an AI agent to complete levels of a game. I am looking to hone in on these with a full time position and am actively applying for roles that align with my background."
     ),
   ],
 
@@ -67,6 +68,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "React",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "PHP",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
     },
     {
       skillName: "python",
@@ -190,16 +203,27 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/Chip.png"),
-      projectName: "Chip's Challenge Agent",
-      projectDesc: "My favorite project from my Intro To AI course where I designed and implemented an algorithm to allow an agent to maneuver through 10 levels of the game Chip's Challenge.",
+      image: require("./assets/images/wolfconnect.png"),
+      projectName: "WolfConnect",
+      projectDesc: "My senior design project where I along with a team of 4 other computer science students, worked on a mentorship/connection platform tailored for the NCSU community. Throughout the project, we had weekly meetings with sponsors and had to keep documentation up to date, testing and coverage up to par as well as deliver presentations and reports throughout the semester.",
       footerLink: [
         {
           name: "Youtube Demo",
-          url: "https://youtu.be/MS3tX1eS6Pg"
+          url: "https://youtu.be/GkVSRQE2UZQ"
         }
       ]
     }
+    // {
+    //   image: require("./assets/images/Chip.png"),
+    //   projectName: "Chip's Challenge Agent",
+    //   projectDesc: "My favorite project from my Intro To AI course where I designed and implemented an algorithm to allow an agent to maneuver through 10 levels of the game Chip's Challenge.",
+    //   footerLink: [
+    //     {
+    //       name: "Youtube Demo",
+    //       url: "https://youtu.be/MS3tX1eS6Pg"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
