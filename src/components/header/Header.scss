@@ -60,6 +60,17 @@
   line-height: normal;
 }
 
+@media only screen and (max-width: 420px) {
+  .header .logo-name {
+    font-family: "Agustina Regular";
+    font-weight: bold;
+    font-variant-ligatures: no-common-ligatures;
+    -webkit-font-variant-ligatures: no-common-ligatures;
+    font-size: 20px;
+    padding: 0 10px;
+  }
+}
+
 .header .logo-name {
   font-family: "Agustina Regular";
   font-weight: bold;
